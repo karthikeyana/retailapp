@@ -1,0 +1,40 @@
+[{
+	"first_name": "user1",
+	"last_name": "A",
+	"gender": "Male",
+	"date_of_birth": "1991-05-30",
+	"mobile_number": 9551544691,
+	"location": "Chennai",
+	"email_id": "user1a@live.com",
+	"order": []
+},
+{
+	"first_name": "user2",
+	"last_name": "B",
+	"gender": "Male",
+	"date_of_birth": "1991-05-31",
+	"mobile_number": 9551544692,
+	"location": "Chennai",
+	"email_id": "user2@live.com",
+	"order": []
+},
+{
+	"first_name": "user3",
+	"last_name": "C",
+	"gender": "Male",
+	"date_of_birth": "1991-05-3",
+	"mobile_number": 9551544693,
+	"location": "Chennai",
+	"email_id": "user3@live.com",
+	"order": []
+},
+{
+	"first_name": "user4",
+	"last_name": "D",
+	"gender": "Male",
+	"date_of_birth": "1991-05-2",
+	"mobile_number": 9551544694,
+	"location": "Chennai",
+	"email_id": "user4@live.com",
+	"order": []
+}]
